@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **MERN Stack,TS**
 
-- 💬 Ask me about **React,MERN,Javascript,etc.**
+- 💬 Ask me about **React,MERN,typescript
 
 - 📫 How to reach me **poudyalamit20@gmail.com**
 
