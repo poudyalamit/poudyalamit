@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amit Poudyal</h1>
-<h3 align="center">A passionate frontend developer from Nepal interested in the JS + MERN+ TS</h3>
+<h3 align="center">A passionate MERN stack developer from Nepal interested in the JS + MERN+ TS</h3>
 
 - 🌱 I’m currently learning **MERN Stack,TS,Flutter**
 
