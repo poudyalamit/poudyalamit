@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Amit Poudyal</h1>
-<h3 align="center">A passionate MERN stack developer from Nepal interested in the JS + MERN+ TS</h3>
+<h3 align="center">A passionate MERN stack developer from Nepal interested in Web and App Development</h3>
 
 - 🌱 I’m currently learning **MERN Stack,TS,Flutter**
 
-- 💬 Ask me about React,MERN,typescript
+- 💬 Ask me about React,MERN,Typescript
 
 - 📫 How to reach me **poudyalamit20@gmail.com**
 
