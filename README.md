@@ -1,12 +1,13 @@
 ![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgo6ZZHuns-ra6qXugYhDCL8KrlOdpFLNlTAfc0UE9n48b7N-BWfRO4Ex0uCvT2ydIacdZPZLtAElzhj_d79-Aunwv92r0INgvjH_PDLfeWzs7j4ZfVbMshwYW9lOemdUQz8nr0YE3L-MDyggFpnB4_UDBpUyQcsDH_yQ6Mrcn8t_vQiYSUFBhIiS2S/s1600/Android-IO22AndroidDevRecap_Header.png)
 <h1 align="center">Hi 👋, I'm Amit Poudyal</h1>
 <h3 align="center">A passionate MERN stack developer from Nepal interested in Web and App Development</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 - 🌱 I’m currently learning **MERN Stack,TS,Flutter**
 
 - 💬 Ask me about React,MERN,Typescript
 
 - 📫 How to reach me **poudyalamit20@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
